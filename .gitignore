@@ -1,0 +1,7 @@
+env/
+data/
+notebook/.ipynb_checkpoints/
+src/
+.idea/
+
+
